@@ -1,11 +1,9 @@
 [submodule "Hboat"]
 	path = Hboat
 	url = https://github.com/theSecHunter/Hboat.git
-
 [submodule "Hades-Linux"]
 	path = Hades-Linux
 	url = https://github.com/theSecHunter/Hades-Linux.git
-
 [submodule "Hades-Windows"]
 	path = Hades-Windows
 	url = https://github.com/theSecHunter/Hades-Windows.git

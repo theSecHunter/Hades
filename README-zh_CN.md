@@ -9,3 +9,9 @@ Hades 是一款支持 Windows/Linux 的内核级别数据采集主机入侵检�
 - [Hades-Linux](https://github.com/chriskaliX/Hades) @chriskaliX
 
 目前该仓库为其他组件的整合，可以点击上述链接获取组件详情
+
+## 404 星链计划
+
+<img src="https://github.com/knownsec/404StarLink-Project/raw/master/logo.png" width="30%">
+
+Hades 现已加入 [404 星链计划](https://github.com/knownsec/404StarLink)

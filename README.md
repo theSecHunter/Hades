@@ -9,3 +9,9 @@ Hades is a cross-platform HIDS with kernel-space data collection. Every part of 
 - [Hades-Linux](https://github.com/chriskaliX/Hades) @chriskaliX
 
 This repo is meant to collect the parts of Hades. For detail, you need to look into the repo above.
+
+## 404Starlink
+
+<img src="https://github.com/knownsec/404StarLink-Project/raw/master/logo.png" width="30%">
+
+Hades has joined [404Starlink](https://github.com/knownsec/404StarLink)
